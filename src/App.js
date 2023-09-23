@@ -90,11 +90,9 @@ function App() {
             <Button
               onClick={convertCurrency}
               variant="outlined"
-              // size='large'
               fullWidth
             >
               <CurrencyExchangeIcon />
-              {/* Convert */}
             </Button>
           </div>
           
